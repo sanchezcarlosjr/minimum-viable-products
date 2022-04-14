@@ -1,5 +1,7 @@
-# Carlos Eduardo Sanchez Torres (sanchezcarlosjr) - Minimum Viable Products
+# Minimum Viable Products
 ---
+By [Carlos Eduardo Sanchez Torres](https://twitter.com/CharllierJr)
+
 ## Mathematics and computer science demos
 
 - :computer: Github Repository: [https://github.com/sanchezcarlosjr/minimum-viable-products](https://github.com/sanchezcarlosjr/minimum-viable-products)
