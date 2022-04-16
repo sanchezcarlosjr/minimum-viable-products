@@ -10,7 +10,7 @@ Deploy Jupyter Notebook as web app to Heroku with Mercury.
 
 ### 💻 Web App
 
-The web app is running on free dyno at Heroku 🔗 http://mercury-simple-demo.herokuapp.com/
+The web app is running on free dyno at Heroku 🔗 https://sanchezcarlosjr.com/minimum-viable-products/xY3nKE89H0vtrg9OhpZB.
 
 ![](https://raw.githubusercontent.com/pplonski/mercury-simple-demo/main/media/super-simple-web-app.gif)
 
