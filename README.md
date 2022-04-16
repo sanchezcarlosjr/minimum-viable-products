@@ -22,3 +22,21 @@ The Mercury framework is available at https://github.com/mljar/mercury
 ### 📚 Article
 
 The article with step-by-step explanations 👉 https://mljar.com/blog/share-jupyter-notebook-as-web-app/
+
+### Development Pipeline
+
+* Google Colab
+1. First row should be RAW. Mercury doesn't allow other row earlier.
+2. Copy schema.
+3. Edit file.
+4. Save on Gist.
+5. Push.
+
+* Local
+1. git clone
+2. edit.
+3. push.
+
+
+
+
