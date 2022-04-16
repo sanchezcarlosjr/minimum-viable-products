@@ -1,4 +1,4 @@
-# Mercury Super Simple Demo :rocket:
+# Minimum viable products (mathematics and computer sciences demos). :rocket:
 
 ![](https://raw.githubusercontent.com/mljar/visual-identity/main/mercury/mercury_convert_notebook_3.png)
 
