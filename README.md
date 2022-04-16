@@ -1,4 +1,5 @@
 # Minimum viable products (mathematics and computer sciences demos). :rocket:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sanchezcarlosjr/minimum-viable-products/HEAD)
 
 ![](https://raw.githubusercontent.com/mljar/visual-identity/main/mercury/mercury_convert_notebook_3.png)
 
